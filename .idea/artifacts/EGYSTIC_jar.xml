@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EGYSTIC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EGYSTIC_jar</output-path>
+    <root id="archive" name="EGYSTIC.jar">
+      <element id="module-output" name="EGYSTIC" />
+    </root>
+  </artifact>
+</component>
